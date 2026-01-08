@@ -1,0 +1,10 @@
+C:\Users\Ahmed\Documents\DeskTopApp\Choice\bin\Debug\Choice.exe.config
+C:\Users\Ahmed\Documents\DeskTopApp\Choice\bin\Debug\Choice.exe
+C:\Users\Ahmed\Documents\DeskTopApp\Choice\bin\Debug\Choice.pdb
+C:\Users\Ahmed\Documents\DeskTopApp\Choice\obj\Debug\Choice.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Documents\DeskTopApp\Choice\obj\Debug\Choice.Form1.resources
+C:\Users\Ahmed\Documents\DeskTopApp\Choice\obj\Debug\Choice.Properties.Resources.resources
+C:\Users\Ahmed\Documents\DeskTopApp\Choice\obj\Debug\Choice.csproj.GenerateResource.cache
+C:\Users\Ahmed\Documents\DeskTopApp\Choice\obj\Debug\Choice.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Documents\DeskTopApp\Choice\obj\Debug\Choice.exe
+C:\Users\Ahmed\Documents\DeskTopApp\Choice\obj\Debug\Choice.pdb
